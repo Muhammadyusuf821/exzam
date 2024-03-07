@@ -40,7 +40,7 @@
     gap: 40px;
 }
 
-.li__a {
+.li__a_href {
     color: var(--colorWhite);
     text-decoration: none;
     font-family: Livvic;
@@ -71,11 +71,11 @@
     color: #014E56;
 }
 
-.burger {
+.burger__number_one {
     display: none;
 }
 
-.header__second_container {
+.header__second_container_1{
    align-items: center;
    text-align: center;
     
